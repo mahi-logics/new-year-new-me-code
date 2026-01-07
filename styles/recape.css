@@ -1,0 +1,27 @@
+#recape{
+  display: flex;
+  justify-content: space-between;
+  width: 67%;
+  margin: 0 auto;
+}
+
+#recape .recape-image img{
+  max-width: 570px;
+}
+
+#recape .recape-content{
+  max-width:400px;
+  position: relative;
+  top: 250px;
+  left: 60px;
+}
+
+#recape .recape-content h3{
+  font-size: 40px;
+  font-weight: bold;
+  margin-bottom: 22px;
+}
+
+#recape .recape-content p{
+  margin-bottom: 16px;
+}

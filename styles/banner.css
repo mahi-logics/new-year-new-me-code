@@ -5,6 +5,13 @@
   scrollbar-width: none;
 }
 
+.text{
+  font-size: 16px;
+  line-height: 26px;
+  margin-bottom: 32px;
+  color: #444343;
+}
+
 #banner{
   background-image: url("../images/banner/banner1.png");
   background-position:0px -50px;
@@ -28,11 +35,7 @@
 }
 
 .banner-content p{
-  font-size: 16px;
-  line-height: 26px;
-  margin-bottom: 32px;
-  color: #444343;
-  max-width: 510px;
+  max-width: 490px;
 }
 
 .btn{
