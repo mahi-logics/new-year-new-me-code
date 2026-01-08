@@ -1,0 +1,47 @@
+#subscribe{
+  background-color: #151414;
+  color: white;
+  height: 60vh;
+}
+
+#subscribe .subscribe-container{
+  display: flex;
+  justify-content: space-between;
+  width: 71%;
+  max-width: 1140px;
+  margin: 0 auto;
+  padding-top: 80px ;
+}
+
+#subscribe .subscribe-container .connect{
+  max-width: 450px;
+} 
+
+.subscribe-container .connect h3{
+  font-size: 45px ;
+}
+
+.subscribe-container .connect p{
+  color: white;
+}
+
+.subscribe-container .social-media img{
+  margin-right: 18px;
+}
+
+.subscribe-container form h5{
+  font-size: 25px;
+  font-weight: 600;
+  margin-bottom: 31px;
+}
+
+.subscribe-container form input[type="email"]{
+  display: block;
+  padding: 21px;
+  padding-right: 158px;
+  margin-bottom: 16px;
+  border-radius: 10px;
+  border: 1px solid white;
+  background-color: #151414;
+  color: white;
+}

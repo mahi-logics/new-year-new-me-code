@@ -38,7 +38,7 @@
   color: white;
 }
 
-#call-now .call-now-content button{
+#call-now .call-now-content button , .btn-white{
   background-color: white;
   color: #F15B22;
 }
